@@ -1,0 +1,23 @@
+body {
+  background-color:#FFB7C5; 
+  width:100%;
+  min-width:1000px;
+  height:auto;
+}
+.logo{
+position: relative;
+padding: 20px;
+top:10px; 
+height: auto;  
+}
+.profils {
+color: #071108;
+position: absolute;
+font-family: Roboto;
+font-size: 40px;
+line-height: 10px;
+text-align: left;
+top: 57px;
+right: 60px;
+padding: 40px;
+}

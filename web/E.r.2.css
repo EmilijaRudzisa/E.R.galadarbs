@@ -1,0 +1,25 @@
+body {
+    background-color:#FFB7C5; 
+    width:100%;
+    min-width:1000px;
+    height:auto;
+  }
+.logos{
+  position: relative;
+  padding: 20px;
+  top:10px; 
+  height: auto;  
+}
+.sign{
+ float: left;
+}
+.sign * {
+  display:block;
+}
+.log * {
+  display: block;
+}
+
+.p1{
+  padding:20px;
+}
